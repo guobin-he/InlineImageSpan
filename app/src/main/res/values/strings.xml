@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InlineImageSpan</string>
+    <string name="action_insert_image">InsertImage</string>
+    <string name="action_remove_image">RemoveImage</string>
+</resources>
